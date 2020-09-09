@@ -1,1 +1,1 @@
-{"status":"done","publicPath":"/","error":"ModuleNotFoundError","message":"Module not found: Error: Can't resolve '../../utils/requests' in '/Users/Skye/Projects/lolbans-frontend/src/views/dashboard/punishments'","chunks":{"main":[{"name":"app.js","publicPath":"/app.js","path":"/Users/Skye/Projects/lolbans-frontend/dist/app.js"}]}}
+{"status":"done","publicPath":"/","chunks":{"main":[{"name":"app.js","publicPath":"/app.js","path":"/home/zachery/LolBans/lolbans-frontend/dist/app.js"}]}}

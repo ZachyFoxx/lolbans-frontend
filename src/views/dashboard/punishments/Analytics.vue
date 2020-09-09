@@ -295,7 +295,6 @@ export default {
                 .then(response => {
                     var data = [];
                     for (var i = 0; i < response.data.length; i++) {
-                        console.log(response.data[i]);
 
                         data.push({
                             x: response.data[i].date,

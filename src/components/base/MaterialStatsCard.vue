@@ -80,7 +80,7 @@ export default {
 			default: undefined,
 		},
 		value: {
-			type: Number,
+			type: undefined,
 			default: undefined,
 		},
 		smallValue: {
